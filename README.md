@@ -1,1 +1,1 @@
-# Toward-Aesthetics
+# TowardAesthetics
